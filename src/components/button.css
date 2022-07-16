@@ -1,0 +1,9 @@
+.buttonTask {
+     margin-top: 50px;
+     background: rgb(41, 41, 184);
+     color: azure;
+     height: 50px;
+     width: 120px;
+     padding: 10px;
+     border-radius: 8px;
+}
